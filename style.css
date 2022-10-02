@@ -93,8 +93,7 @@ form p:nth-child(1){
 #results{
     /* border: 2px solid red; */
     margin-top: 40px;
-    position: absolute;
-    left: 555px;
+   
     font-family:cursive;
     font-size: 30px;
     width: 400px;
